@@ -1,1 +1,2 @@
-This is the chapter1 stage1
+ This is the chapter1 stage1
+Initial commit
